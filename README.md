@@ -3,7 +3,7 @@ Research &amp; development of ideas and facts relating to the Werehog, from 'Son
 
 Community and archive by ini (🟣) of Cooliniau.
 
-# **Essential Links (more info below)**
+## **Essential Links (more info below)**
 
 Werehog R&D: https://twitter.com/i/communities/1547719903578243072
 
