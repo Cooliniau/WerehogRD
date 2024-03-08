@@ -11,7 +11,7 @@ SingleFile: https://github.com/gildas-lormeau/SingleFile
 
 OldTwitter: https://github.com/dimdenGD/OldTwitter
 
-GitHub Desktop: https://desktop.github.com/
+GitHub Desktop (if you want something easy-ish to use for repo management): https://desktop.github.com/
 
 ## **ini's Notice**
 
