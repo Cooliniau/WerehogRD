@@ -2,12 +2,16 @@
 Research &amp; development of ideas and facts relating to the Werehog, from 'Sonic Unleashed' (2008). 
 Community and archive by ini (🟣) of Cooliniau.
 
-**Essential Links (more info below)**
+# **Essential Links (more info below)**
+
 Werehog R&D: https://twitter.com/i/communities/1547719903578243072
+
 SingleFile: https://github.com/gildas-lormeau/SingleFile
+
 OldTwitter: https://github.com/dimdenGD/OldTwitter
 
-**ini's Notice**
+# **ini's Notice**
+
 This repository's goal is to archive at least MOST of the Community's ideas and findings featured on Twitter (https://twitter.com/i/communities/1547719903578243072). 
 The main format for archiving such content would be through saving the page as an HTML via the "SingleFile" addon (https://github.com/gildas-lormeau/SingleFile), while also using another addon called "OldTwitter" (https://github.com/dimdenGD/OldTwitter).
 
