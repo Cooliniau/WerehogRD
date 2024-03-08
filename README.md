@@ -76,7 +76,7 @@ All that aside, I'll proceed updating this repo as time goes on. For now, I simp
   - If you accidently delete a file/folder in your repo directory: go to GitHub Desktop, click on the change itself (it should show itself as a red "-" icon), and delete the change. Do ***not*** commit mistakes like these to the main branch.
   - If you wish to be even MORE careful—although this is optional, you may create a fork or new branch of the main branch that makes your cloned repo be its own thing.
     - Go to "Current Branch" > Click on "New branch" > Give it a name of your choosing > Click on "Publish branch" to commit it to the repo > Now your cloned repo on your machine falls under that new branch, not **main**.
-    - Any changes you make within it that's fine for the main repo can be merged with the main branch.
-      - Click on "Current Branch" > Switch to **main** first > Clikc on "Choose a branch to merge into **main**" > Select your branch > Click "Create merge commit" > Click on "Push origin" > Done!
+    - Any changes you make within this new branch that's fine for the main repo can be merged with the main branch.
+      - Click on "Current Branch" > Switch to **main** first > Click on "Choose a branch to merge into **main**" > Select your branch > Click "Create merge commit" > Click on "Push origin" > Done!
       - If you wish to delete items you commited to both **main** and your branch, then delete the files in your local repo first while in **main** and then do it again while you are in YOUR own branch.
 - Be sure to click the "Fetch origin" button periodically in case any new changes to the repo have made—from there, click "Pull origin" to have those changes be applied to your local cloned repo. It is VERY important to make sure you are keeping your repo up-to-date and not commiting any old files !!
