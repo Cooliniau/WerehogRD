@@ -30,4 +30,13 @@ All that aside, I'll proceed updating this repo as time goes on. For now, I simp
 
 - Anyone that actually wishes to contribute to archiving needs to be at least familiar with commits, forks, pushes, and pulls. Familiarize yourself with how the process works in a nutshell, and I'd also recommend using *GitHub Desktop* just for ease of use (imo anyway; if you're already using something akin to it, stick with that).
 
-- Be sure to have GitHub Desktop set up on your computer already, and clone the repo by go
+- Be sure to have GitHub Desktop set up on your machine already, and clone the repo by going to this page > Code > Open with Github Desktop > Allow links to be opened by x-github. When on GitHub Desktop, just follow the prompts it gives you and you *should* have the repo on your machine.
+
+- Head to the directory of the repo, and extract the contents of uBlock_and_SingleFile_Settings.zip to a different folder outside the repo folder. If you have uBlock and SingleFile set up already, then:
+  - uBlock:
+    - Left-click the extension
+    - Click the gears icon
+    - Go to "My filters"
+    - Click "Import and append"
+    - Go to the .txt file with uBlock in its name
+  - SingleFile: Right-click the extension > go to "Manage Extensions" (I'm using Firefox) > Head over to the extension's dedicated Options page > 
