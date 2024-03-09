@@ -74,7 +74,7 @@ All that aside, I'll proceed updating this repo as time goes on. For now, I simp
   - After that's done, click the blue "Commit to **main**" button below the "Description" box. Then go to the top of the window where it says "Push origin", and click it to push your additions to the **main** branch of the repo. That's that, you've successfully
 
 ## *Warnings and Tips*
-- It is ***IMPERATIVE*** that you had a separate folder outside the repo in which you store *backups* of the HTML files you create.
+- It is ***IMPERATIVE*** that you have a separate folder outside the repo in which you store *backups* of the HTML files you create.
 - It is also ***HIGHLY IMPORTANT*** that you are extremely careful in both handling repo files and commiting changes.
   - If you accidently delete a file/folder in your repo directory: go to GitHub Desktop, click on the change itself (it should show itself as a red "-" icon), and delete the change. Do ***not*** commit mistakes like these to the main branch.
   - If you wish to be even MORE careful—although this is optional, you may create a fork or new branch of the main branch that makes your cloned repo be its own thing.
@@ -82,4 +82,4 @@ All that aside, I'll proceed updating this repo as time goes on. For now, I simp
     - Any changes you make within this new branch that's fine for the main repo can be merged with the main branch.
       - Click on "Current Branch" > Switch to **main** first > Click on "Choose a branch to merge into **main**" > Select your branch > Click "Create merge commit" > Click on "Push origin" > Done!
       - If you wish to delete items you commited to both **main** and your branch, then delete the files in your local repo first while in **main** and then do it again while you are in YOUR own branch.
-- Be sure to click the "Fetch origin" button periodically in case any new changes to the repo have made—from there, click "Pull origin" to have those changes be applied to your local cloned repo. It is VERY important to make sure you are keeping your repo up-to-date and not commiting any old files !!
+- Be sure to click the "Fetch origin" button periodically in case any new changes to the repo have made—from there, click "Pull origin" to have those changes be applied to your local cloned repo. It is VERY important to make sure you are keeping your repo up-to-date and not commiting any out-of-date files !!
