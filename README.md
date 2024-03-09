@@ -3,7 +3,8 @@ Research and development of ideas and facts relating to the Werehog, from 'Sonic
 
 Community and archive by ini (🟣) of Cooliniau.
 
-![alt text](https://pbs.twimg.com/media/FwI8kIAWIAENVJ-?format=jpg&name=900x900)
+![FwI8kIAWIAENVJ-](https://github.com/Cooliniau/WerehogRD/assets/161521900/a47ed4e8-0298-45b3-99bd-622a958dce51)
+
 
 ## **Essential Links (more info below)**
 
