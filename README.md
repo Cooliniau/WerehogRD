@@ -83,3 +83,9 @@ All that aside, I'll proceed updating this repo as time goes on. For now, I simp
       - Click on "Current Branch" > Switch to **main** first > Click on "Choose a branch to merge into **main**" > Select your branch > Click "Create merge commit" > Click on "Push origin" > Done!
       - If you wish to delete items you commited to both **main** and your branch, then delete the files in your local repo first while in **main** and then do it again while you are in YOUR own branch.
 - Be sure to click the "Fetch origin" button periodically in case any new changes to the repo have made—from there, click "Pull origin" to have those changes be applied to your local cloned repo. It is VERY important to make sure you are keeping your repo up-to-date and not commiting any out-of-date files !!
+
+## Mods
+- If you wish to upload mods pertaining to the Werehog's playstyle, you're free to do so with the "4 - Mods" folder! Just be sure to...
+  - Place that mod (whether it's a packaged ZIP file or raw mods files) within a folder with your username.
+  - Include a "ReadMe" text file within that folder that quickly details what the mod is doing, and also links your preferred social media platform
+    - If you were to copy/paste those details from your mod's GameBanana page, you're welcome to do that !!
