@@ -2,6 +2,7 @@
 Research and development of ideas and facts relating to the Werehog, from 'Sonic Unleashed' (2008).
 
 Community and archive by ini (🟣) of Cooliniau.
+![alt text](https://pbs.twimg.com/media/FnXYLWXXEAYsXGL?format=jpg&name=orig)
 
 ## **Essential Links (more info below)**
 
