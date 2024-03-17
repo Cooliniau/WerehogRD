@@ -217,10 +217,6 @@
 - <u>Foreign Exceptions</u>
   - *Extended* Wereclap to Double Axle
     - XXX-Y(XX)
-  - Unleashed Wild Combo to Unleashed Knuckle Sandwich *Finisher*
-
-    - XX-YY-XX-(X)
-      - The last "X" input is finisher for Unleashed Knuckle Sandwich.
   - Aerial Claw Slash & Spin (ACSS) to Flying Double Punch Crush (FDPC)
     - XX-A-(Y)
       - "Y" input uses the finisher of FDPC.
@@ -228,7 +224,7 @@
     - YY-A-(X)
       - "X" input uses the finisher of ACSS.
   - Feasible Typhoon to Shooting Star
-
+  
     - XXX-(Y)-A
       - "Y" input uses the 1st UI of Shooting Star Combo.
   - Feasible Shooting Star to Typhoon
