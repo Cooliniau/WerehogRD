@@ -188,15 +188,15 @@
 
 - <u>Foreign Input Combos</u>
   
-  - Double Kick to Wild Whirl Were-hammer
+  - Rolling Kick to Wild Whirl Were-hammer
     
     - X-Y-(A)
   
-  - Donkey Kick to Wild Whirl Were-hammer
+  - Egg Scrambler to Wild Whirl Were-hammer
     
     - XX-YY(A) 
   
-  - Double Axle to Wild Whirl Were-hammer
+  - Wereclap to Wild Whirl Were-hammer
     
     - XXX-Y(A) 
   
