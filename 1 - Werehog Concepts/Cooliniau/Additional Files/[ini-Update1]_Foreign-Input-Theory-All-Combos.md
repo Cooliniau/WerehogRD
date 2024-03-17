@@ -20,25 +20,25 @@
 
 ## Transition Combo Pairs - Section 2: 5-Input Combos
 
-- Note 1: "||" is used for combos that appear in BOTH inverse and reverse pairs.
-- Note 2: "*" is for combos that are overridden by existing combos; they won't be included.
+- Note 1: "| |" is used for combos that appear in BOTH inverse and reverse pairs.
+- Note 2: " * " is for combos that are overridden by existing combos; they won't be included.
 
-**Set 1 - Reverse Pair**
+**Set 1 - Reverse Pairs**
 
 - XX-YYY  =  Egg Scrambler
-
 - YYY-XX  =  Double Axle Combo
-
+- XXX-YY = Wereclap
+- YY-XXX = Donkey Kick Combo
 - <u>Foreign Input Combos</u>
-  
   - Egg Scrambler to Double Axle
-    
+  
     - |XX-Y(XX)|
     - |XX-Y(X)Y|
     - |*XX-YY(X)|
-  
+  - Wereclap to Donkey Kick Finisher
+    - |XXX-Y(X)|
   - Double Axle to Egg Scrambler Finisher
-    
+  
     - YYY-X(Y)
 
 **Set 2 - *Inverse* Pairs**
@@ -60,10 +60,10 @@
     - YY-X(Y)X
     - *YY-XX(Y)
   - Wereclap to Double Axle
-    - XXX-Y(X)
-  - Double Axle to Wereclap
+    - |XXX-Y(X)|
+  - Double Axle to Wereclap Finisher
     - ~YYY-X(Y)
-      - ("~" means combos are currently not possible due to the 1st UI of Double Axle sending Sonic into the air, rendering the Wereclap finisher inoperable)
+      - ("~" means the combo is currently not possible due to the 1st UI of Double Axle sending Sonic into the air, rendering the Wereclap finisher inoperable)
 
 -------------------------
 
@@ -124,8 +124,8 @@
 
 ## Transition Combo Pairs - Section 4: Aerial Attacks
 
-- Note 1: "||" is used for combos that appear in BOTH inverse and reverse pairs.
-- Note 2: "*" is for combos that are overridden by existing combos; they won't be included.
+- Note 1: "| |" is used for combos that appear in BOTH inverse and reverse pairs.
+- Note 2: " * " is for combos that are overridden by existing combos; they won't be included.
 
 **Set 1 - *Inverse* Pair**
 
@@ -153,7 +153,7 @@
 
 ## Transition Combo Pairs - Section 5: Free-Form FI Combos
 
-- Note 1: This section is to essentially allow for combos that go beyond their respective input limits to make certain combos have transition when they normally wouldn't—otherwise known as "foreign exceptions" in the document.
+- Note 1: This section is to essentially allow for combos that go beyond their respective input limits to make certain combos have transitions when they normally wouldn't—otherwise known as "foreign exceptions" in the document.
 - Note 2: This section will also house more launcher FI combos, as well as rules for which attack type gets which launcher type.
 
 **Set 1 - Straight Attack Launcher Type: Sho-hog-ken**
