@@ -1,0 +1,158 @@
+All Motions and their corresponding Combos:
+#################### Straight Attacks ####################
+Were-Hammer:
+NSA
+NSB
+NSC
+NSD
+
+Feral Were-Hammer
+NSE
+
+Vertical Were-Hammer:
+JDH
+
+Sho-Hog-Ken:
+JA2
+
+Double Kick Combo:
+JF
+JKC
+JKCE
+
+Double Axle Combo:
+SAH
+JCH
+JCHE
+(JCH02 is the other situation)
+
+Donkey Kick Combo:
+SC
+SC2
+SD
+
+Werewheel Rush:
+JH1S
+JH1
+JBH
+(JH1E and SBH are some other stuff?)
+
+Ultimate Knuckle Sandwich:
+GA
+SGH
+
+Unleashed Knuckle Sandwich:
+SDH
+SHL
+#################### Hook Attacks ####################
+Wild Whirl:
+NCA
+NCB
+NCC
+NCD
+
+Feral Wild Whirl
+NCE
+
+Were-Hammer Wild Whirl:
+JDH
+
+Sho-Claw-Ken:
+JA2 (SHAS_2)
+
+Rolling Kick Combo:
+CKA
+CKB
+
+Were-Clap:
+CBH
+NCCH
+
+Egg Scrambler:
+CX1
+CDHX
+CX4X
+
+Earthshaker:
+SEH1
+SEH
+SEH2
+
+Ultimate Wild Combo:
+CXB
+CXC
+
+Unleashed Wild Combo:
+CXD
+CXE
+#################### Aerial Attacks ####################
+Flying Double-Punch:
+JSA
+JSB
+
+Aerial Claw Slash:
+JCA
+JCB
+
+Diving Bodypress:
+JCAHS
+JCAHL
+JCAHE
+
+Aerial Piledriver:
+N/A (For now)
+
+Flying Double-Punch Crush:
+JE
+JEE
+
+Aerial Claw Slash and Spin:
+CDHA
+
+Shooting Star Combo:
+JSC
+JEH
+
+Typhoon Combo:
+JCC
+CDH
+
+Crescent Moon Strike:
+JSD
+JSE
+JSF
+
+Hurricane Combo:
+JCD
+JCE
+JCF
+#################### Special Attacks ####################
+Were-Claw Charge:
+DB
+
+Triple Wild Claw:
+DA
+
+Spinning Needle Attack:
+DC
+
+Were-Rush:
+CX4
+
+Tricky Tornado Uppercut:
+JD
+
+Wild Werewhip:
+SCH
+
+Missile Punch:
+SH_hold
+
+Comet Punch:
+SH_shoot
+
+Were-Tornado:
+CEH
+
+Were-Cyclone
+CH_shoot

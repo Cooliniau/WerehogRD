@@ -1,0 +1,105 @@
+############################## MotionList (NSA, First input of Were-Hammer) ############################################
+<MotionName>						Name of the motion in the EvilAttackAction1.xml
+<FileName>						Name of the motion in the hkx files
+<MotionBlendTimeS>					Blending starting frames between the motions 
+<MotionBlendTimeE>					Blending end frames between the motions
+<MotionBlendTimeEIdle>					Blending idle frames between the motions
+<MotionMoveSpeedRatio>					Ratio of movement speed when pressing an input
+<MotionMoveSpeedRatio_Y>				Ratio of movement speed when pressing an input (on the Y axis?)
+<MotionMoveSpeedRatioFrameStart_1>			The starting frame of the <MotionMoveSpeedRatio>
+<MotionMoveSpeedRatioFrame_1>				The ratio of frames for the <MotionMoveSpeedRatio>
+<MotionMoveSpeedRatioFrameY_1>				The ratio of frames (on y axis) for the <MotionMoveSpeedRatio>
+<MotionFirstSpeed>					Speed of first frame (increasing the value increases the speed)
+<MiddleSpeed>						Speed of middle frame
+<EndSpeed>						Speed of end frame (possible useful for reducing end lag)
+<MotionSpeed_FirstFrame>				First frame of motion speed
+<MotionSpeed_MiddleFrame>				Middle frame of motion speed
+<DontCatchTime>						Delay time of catching an object
+<DontJump>						Boolean for if jumping is possible while using the move (beta had an attack jump, but not the final release)	
+<ShakeCameraStartFrame>					Starting frame of camera shakes.
+<GroundHeightRepair>					Perhaps referring to leveling the player after they reach the ground?
+<AttackScope>						Range of Attacks, usually 180 or 360 degrees.
+<MoveType>						IngAutoTarget or Default. The former has a soft lock-on function, the latter does not.
+<AutoTargetEndFrame>					The frame for auto-targetting the move
+<AutoTargetPower>					Power of soft lock-on (autotarget)
+<PadRotationIntensity>					Intensity of pad rotation
+<IsGravity>						Gravity boolean
+<GravityArray_Start1>					Gravity Starting point
+<IsGravityArray1>					Gravity is an array
+<PadRotationIntensity_Start1>				(Same things probably, but different?)
+<PadRotationIntensity_Power1>				>
+<PadRotationValid1>					>
+<PadRotationIntensity_Start2>				>
+<PadRotationIntensity_Power2>				>
+<PadRotationValid2>					>
+<PadRotationIntensity_Start3>				>
+<PadRotationIntensity_Power3>				>
+<PadRotationValid3>					>
+<GameSpeed_Start1>					Speed of the game?
+<GameSpeed_Power1>					Power of the game?
+<GameSpeed_CollPower1>					Collision?
+<GuardStartFrame>					Starting frame of shield gaurd
+<GuardEndFrame>						Starting frame of shield gaurd
+<!--<GameSpeedColl_Start1>-1</GameSpeedColl_Start1>	(Unused inputs)
+<GameSpeedColl_Speed1>-1</GameSpeedColl_Speed1>
+<GameSpeedColl_Timer1>-1</GameSpeedColl_Timer1>
+-->
+
+<Effect>						// Werehog Effects of the movesetse
+<REffect_Start1>4</REffect_Start1>
+<REffect_End1>16</REffect_End1>
+<REffect_Size1>2</REffect_Size1>
+<REffect_Name1>evil_punch_01</REffect_Name1>
+</Effect>
+
+<Sound></Sound>
+	
+<Collision>						//Collision deals with how body parts do when doing an attack. (Thanks to Nextin for discovering this)
+<DebugDraw>true</DebugDraw>				//Debug Mode?
+<Size1>0.75f</Size1>					//Size of the part
+<SizeDelta1>0.f</SizeDelta1>				//Size in general?
+<RHandStart1>6</RHandStart1>				//Frames of the Body Part
+<RHandEnd1>16</RHandEnd1>
+</Collision>
+
+<Vibration>						(Vibration of Controller when doing the move)
+<StartFrame>-1</StartFrame>				Start Frame
+<EndFrame>-1</EndFrame>					End Frame
+<BigMoter>0.f</BigMoter>				Big and small vibrators on the controllers
+<SmallMoter>0.f</SmallMoter>				>
+<SuccessTimeLength>0.01</SuccessTimeLength>
+<SuccessBigMoter>0.5f</SuccessBigMoter>
+<SuccessSmallMoter>0.5f</SuccessSmallMoter>
+</Vibration>
+
+<Attack>
+<Type1>NormalHard</Type1>					Type of attack (NormalHard, NormalSoft, KnockBack, GuardBreak, AirToAir, AirToHard)
+<DamagePower1>100</DamagePower1>				Damage Power
+<KnockOutPower_Y1>0.f</KnockOutPower_Y1>			Knockback Power on the Y Axis
+<KnockOutPower_Dir1>2.2f</KnockOutPower_Dir1>			Directional Knockback Power
+<KnockOutAnglePowerRatio1>0.5f</KnockOutAnglePowerRatio1>	Knockout angular ration
+<Attribute1>VerticalAttack</Attribute1>				Attribute of Attack	(VerticalAttack, SideAttack, FinishAttack)
+</Attack>
+############################## ActionList (NSA, First input of Were-Hammer) ############################################
+<ActionName>NSA</ActionName>					Names of the action (ActionList is like a tree of actions, each one branching out to different spots)
+      <MotionName>NSA</MotionName>				Name of motion		
+      <ValidLevel_Min>1</ValidLevel_Min>
+      <ValidLevel_Max>99</ValidLevel_Max>
+      <ValidCommon>true</ValidCommon>				Can be used in general
+      <ValidBerserker>true</ValidBerserker>			Can be used with unleash mode
+      <KEY__YDown>NSB</KEY__YDown>				Pressing Y Down
+      <KEY__XDown>JF</KEY__XDown>				Pressing X Down
+      <KEY__ADown></KEY__ADown>					Pressing A Down
+      <KEY__Land></KEY__Land>					Landing
+      <KEY__AirCombo />						Air
+      <KEY__End></KEY__End>					End
+      <Guard>true</Guard>					Can be guarded
+      <Avoid>true</Avoid>					Can be dodged
+      <KEY__StartFrame>2</KEY__StartFrame>			Starting frame
+      <KEY__EndFrame>9</KEY__EndFrame>				End frame
+      <WaitEndMotionEndFrame>22</WaitEndMotionEndFrame>		End motion frame 
+      <WaitEndMotionSpeed>1</WaitEndMotionSpeed>		Waiting for end motion speed
+      <EndMotionSpeed>1</EndMotionSpeed>			End motion speed
+      <LandStartFrame>-1</LandStartFrame>
+      <ActionValidHeightMin>-1</ActionValidHeightMin>
+    </Action>
