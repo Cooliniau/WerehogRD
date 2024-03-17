@@ -212,20 +212,49 @@
     - XX-YY-XX-(A)
     - XX-YY-XX-Y(A)
 
-**Set 3 - Foreign Exception Combos**
+**Set 3 - Foreign Exception Combos (FECs)**
 
 - <u>Foreign Exceptions</u>
   - *Extended* Wereclap to Double Axle
     - XXX-Y(XX)
   - Unleashed Wild Combo to Unleashed Knuckle Sandwich *Finisher*
-  
+
     - XX-YY-XX-(X)
       - The last "X" input is finisher for Unleashed Knuckle Sandwich.
+  - Aerial Claw Slash & Spin (ACSS) to Flying Double Punch Crush (FDPC)
+    - XX-A-(Y)
+      - "Y" input uses the finisher of FDPC.
+  - Flying Double Punch Crush (FDPC) to Aerial Claw Slash & Spin (ACSS)
+    - YY-A-(X)
+      - "X" input uses the finisher of ACSS.
   - Feasible Typhoon to Shooting Star
-  
+
     - XXX-(Y)-A
       - "Y" input uses the 1st UI of Shooting Star Combo.
   - Feasible Shooting Star to Typhoon
-  
+
     - YYY-(X)-A
       - "X" input uses the 1st UI of Typhoon Combo.
+  - ACSS to Typhoon to Hurricane
+    - XX-A-(X)-(YY)-(A or X)
+      - 3rd "X" input is the 1st UI of Typhoon Combo.
+      - Last two "Y" inputs are the first two UIs of Hurricane Combo.
+      - Last "A" input is for the Hurricane Combo Finisher.
+        - Alternatively, last "X" input is for the Typhoon Combo Finisher.
+  - FDPC to Shooting Star (SS) to Crescent Moon Strike (CMS)
+    - YY-A-(Y)-(XX)-(A or Y)
+      - 3rd "Y" input is the 1st UI of SS Combo.
+      - Last two "X" inputs are the first two UIs of CMS.
+      - Last "A" input is for the forwards punch finisher of CMS.
+        - Alternatively, last "Y" input is for the SS Combo Finisher.
+  - <u>*Potential* Foreign Inputs for FECs "ACSS-FDPC", "FDPC-ACSS", "ACSS-TC-HC", and "FDPC-SS-CMS"</u>
+    - ACSS-FDPC into FDPC-SS-CMS
+      - XX-A-(Y-XX-A or Y)
+    - FDPC-ACSS into ACSS-TC-HC
+      - YY-A-(X-YY-A or X)
+    - Swapping between ACSS-TC-HC and FDPC-SS-CMS
+      - XX-A-X-Y(X)-A or (Y)
+      - XX-A-X-Y(X)-A or X
+    - Swapping between FDPC-SS-CMS and ACSS-TC-HC
+      - YY-A-Y-X(Y)-A or (X)
+      - YY-A-Y-X(Y)-A or Y
