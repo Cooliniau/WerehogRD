@@ -1,6 +1,7 @@
 # Foreign Input Theory - All Scenario 1 Transition Combos
 
 <u>Created by: ini of Cooliniau (@Cooliniau)</u>
+
 <u>Suggested Edits by: King Galactix (@KingGalactix)</u>
 
 ## Transition Combo Pairs - Section 1: 3-Input Combos
