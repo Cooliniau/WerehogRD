@@ -1,4 +1,4 @@
-# Foreign Input Theory - All Scenario 1 Transition Combos
+# Foreign Input Theory - Scenario 1 Transition Combos
 
 <u>Created by: ini of Cooliniau (@Cooliniau)</u>
 
