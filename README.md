@@ -8,7 +8,7 @@ Community and archive by ini (🟣) of Cooliniau.
 
 ## **Essential Links (more info below)**
 
-- Werehog R&D: https://twitter.com/i/communities/1547719903578243072 / https://discord.gg/PfhJGVKNCT
+- Werehog R&D: https://twitter.com/i/communities/1547719903578243072
 
 - SingleFile: https://github.com/gildas-lormeau/SingleFile
 
